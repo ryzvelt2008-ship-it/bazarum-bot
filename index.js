@@ -1,4 +1,3 @@
-// Простейший Telegram-бот на long polling
 import TelegramBot from "node-telegram-bot-api";
 
 const token = process.env.TELEGRAM_BOT_TOKEN;
